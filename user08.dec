@@ -1,0 +1,627 @@
+[00000000] 10: delay 0
+[00000000] 10: removeBG 1 0 0
+[00000000] 10: playBGM 8
+[00000000] 10: delay 60
+[00000000] 11: fgload 1 00000000 OK02CA 1 3
+[00000000] 10: playSFX SE120 1
+[00000000] 10: text 00
+{textColor 0 2}Shalom.
+[00000000] 11: fgload 1 00000000 OK01CA 1 3
+[00000000] 10: text 01
+{textColor 0 2}The name's Okuhiko Iida. I'm a third-year at a private university, and the heir to the Iida Financial Group, the forefront of financial groups in Japan.
+[00000000] 10: text 02
+{textColor 0 2}At the moment, I find myself at a seminar camp on a remote island.
+[00000000] 10: text 03
+{textColor 0 2}Before it begins in earnest, we're supposed to spend our time sleeping and eating around each other to deepen the bonds of friendship...
+{textColor 0 2}That's the whole goal of the place, but if I'm being frank, I really don't find it all that exciting.
+[00000000] 11: fgload 1 00000000 OK06CA 1 3
+[00000000] 10: text 04
+{textColor 0 2}Why did I have to sadly throw away my precious spring vacation, locked away on some remote island, cut off from the world?
+[00000000] 10: text 05
+{textColor 0 2}Every bit of it is meaningless... or so I thought.
+[00000000] 10: cmd24
+[00000000] 10: fadetoblack
+[00000000] 10: stopBGM
+[00000000] 10: bgload 00000000 BG02A 0 1
+[00000000] 11: fgload 1 00000000 HA02AA 1 3
+[00000000] 10: cmd1 32
+[00000000] 10: fadein
+[00000000] 10: playBGM 2
+[00000000] 10: text 06
+{textColor 0 2}Despite all that, I happened across a solitary angel.
+[00000000] 10: text 07
+{textColor 0 2}That angel's name is Haruka Higuchi.
+[00000000] 10: text 08
+{textColor 0 2}She's apparently a prodigy in her university, a real model student, the kind who skipped her second year straight into the third.
+[00000000] 10: text 09
+{textColor 0 2}And that's not even why I like her.
+[00000000] 10: text 0a
+{textColor 0 2}Our first meeting was like a sign that angels truly existed.
+[00000000] 10: cmd24
+[00000000] 10: bgload 00000000 EV_HA01 0 1
+[00000000] 10: fadein
+[00000000] 10: text 0b
+{textColor 0 2}She was way too beautiful of a woman.
+[00000000] 10: text 0c
+{textColor 0 2}I thought there was no way this woman could be from our world.
+[00000000] 10: text 0d
+{textColor 0 2}With my darling Haruka-chan, it was love at first sight.
+[00000000] 10: cmd24
+[00000000] 10: cmd2 13
+[00000000] 10: bgload 00000000 BG02N 0 1
+[00000000] 10: fadein
+[00000000] 10: text 0e
+{textColor 0 2}...So, as you'd expect, I entered seduction mode in a bid to make Haruka-chan mine... Suffice it to say as of April 2nd, my results are zip. Zilch. Nada.
+[00000000] 10: text 0f
+{textColor 0 2}On top of that, I haven't managed even a speck of genuine communication with her, so all my strategies for afterwards have gone out the window.
+[00000000] 10: text 10
+{textColor 0 2}She's entirely unresponsive.
+[00000000] 10: text 11
+{textColor 0 2}Like all five of her senses are just gone.
+[00000000] 10: text 12
+{textColor 0 2}It's only logical that no matter how many signs I send her way, I can't begin a single plan of attack if she just doesn't respond.
+[00000000] 10: cmd24
+[00000000] 10: stopBGM
+[00000000] 10: removeBG 1 0 0
+[00000000] 10: playBGM 9
+[00000000] 10: text 13
+{textColor 0 2}The other problem on my hands is a guy named Makoto Ishihara.
+[00000000] 10: text 14
+{textColor 0 2}He's some run-of-the-mill commoner, paling wholly in comparison to my brawn, my brains, my reflexes, AND my lineage, yet he still seems to be gunning for my Haruka-chan anyway.
+[00000000] 10: text 15
+{textColor 0 2}I swear he talks to her any time he gets the chance.
+[00000000] 10: text 16
+{textColor 0 2}And what angers me the most? She's actually opening her heart to that third-rate excuse for a man, however slightly that may be.
+[00000000] 10: text 17
+{textColor 0 2}It's just unbelievable.
+[00000000] 10: cmd24
+[00000000] 10: fadetowhite
+[00000000] 10: bgload 00000000 BG18A 0 1
+[00000000] 11: multifgload2 00000000 HA01AA 1 00000000 OK11AA 3
+[00000000] 10: cmd1 32
+[00000000] 10: fadein
+[00000000] 10: text 18
+{textColor 0 2}I should've known it was a mistake letting the two of them hit the ocean together on April 1st.
+[00000000] 10: text 19
+{textColor 0 2}This is the last thing I wanted on my mind, but that dick just might actually make Haruka-chan his own.
+[00000000] 10: text 1a
+{textColor 0 2}I have to stop that from happening...
+[00000000] 10: cmd24
+[00000000] 10: stopBGM
+[00000000] 10: cmd2 13
+[00000000] 10: bgload 00000000 BG02N 0 1
+[00000000] 10: fadein
+[00000000] 10: text 1b
+{textColor 0 2}I think all of this as I continue sinking into the living room couch at the lodge.
+[00000000] 10: text 1c
+{textColor 0 2}And out of nowhere, Haruka-chan begins to pass by before my very eyes!
+[00000000] 10: text 1d
+{textColor 0 2}I thrust myself up in a hurry.
+[00000000] 11: multifgload2 00000000 HA12CA 1 00000000 OK02CA 3
+[00000000] 10: playBGM 2
+[00000000] 10: text 1e
+{textColor 0 2}【Okuhiko】 "Heyo! Haruka-chan! Where you off to?"
+[00000000] 10: text 1f
+{textColor 0 2}【Haruka】 "..."
+[00000000] 10: text 20
+{textColor 0 2}Haruka-chan silently turns away for a moment before muttering something.
+[00000000] 10: text 21
+{textColor 0 2}【Haruka】 "Makoto's... room."
+[00000000] 11: fgload 3 00000000 OK11CA 0 3
+[00000000] 10: text 22
+{textColor 0 2}【Okuhiko】 "F-For what reason?! The heck is so important about HIS room?!"
+[00000000] 11: fgload 1 00000000 HA01CA 2 3
+[00000000] 10: text 23
+{textColor 0 2}【Haruka】 "Fishing..."
+[00000000] 11: fgload 3 00000000 OK10CA 0 3
+[00000000] 10: text 24
+{textColor 0 2}【Okuhiko】 "Huh?"
+[00000000] 10: text 25
+{textColor 0 2}【Haruka】 "I'm going so I can ask Makoto to teach me about fishing."
+[00000000] 10: text 26
+{textColor 0 2}【Okuhiko】 "F-Fishing, huh?"
+[00000000] 11: fgload 3 00000000 OK06CA 0 3
+[00000000] 10: text 27
+{textColor 0 2}Now that she mentions it, Yuka talked about going fishing after we came back from the pool, but there was the whole thing with Saki-chan getting carried away by the waves instead.
+[00000000] 10: text 28
+{textColor 0 2}So, Haruka-chan wants to go fishing... OH!
+[00000000] 11: fgload 3 00000000 OK02CA 0 3
+[00000000] 10: text 29
+{textColor 0 2}【Okuhiko】 "W-Well, good luck getting any help from *Ishihara* of all people."
+[00000000] 10: text 2a
+{textColor 0 2}I begin to lay out words with an obviously unnatural tone.
+[00000000] 10: text 2b
+{textColor 0 2}【Haruka】 "Why is that?"
+[00000000] 10: text 2c
+{textColor 0 2}【Okuhiko】 "That guy? He couldn't catch a fish to save his life. If we're being honest, he told me all about it when we last got together."
+[00000000] 10: text 2d
+{textColor 0 2}...All a lie, naturally. I have no clue if Ishihara can fish. Maybe he can, for all I know.
+[00000000] 10: text 2e
+{textColor 0 2}I never talked about anything like that with him anyway. More importantly, I have to give my all in making sure that guy has no way of running into her again.
+[00000000] 11: fgload 1 00000000 HA08CA 2 3
+[00000000] 10: text 2f
+{textColor 0 2}【Haruka】 "I... see."
+[00000000] 10: text 30
+{textColor 0 2}Haruka-chan mutters this so dejectedly. It's somehow like she's lost the heart to try fishing anymore.
+[00000000] 10: text 31
+{textColor 0 2}I keep up the pace, not missing my opening to set up an offer.
+[00000000] 11: fgload 3 00000000 OK01CA 0 3
+[00000000] 10: text 32
+{textColor 0 2}【Okuhiko】 "Hey, not to worry. I can teach you just fine."
+[00000000] 11: fgload 1 00000000 HA01CA 2 3
+[00000000] 10: text 33
+{textColor 0 2}【Haruka】 "Oh... You can fish, Okuhiko?"
+[00000000] 11: fgload 3 00000000 OK07CA 0 3
+[00000000] 10: text 34
+{textColor 0 2}【Okuhiko】 "I sure can! Across both river and sea, all fish yield to me."
+[00000000] 10: text 35
+{textColor 0 2}【Haruka】 "Is that true?"
+[00000000] 10: text 36
+{textColor 0 2}【Okuhiko】 "Truer than truth itself! Believe me on this one."
+[00000000] 10: text 37
+{textColor 0 2}【Haruka】 "I should... believe?"
+[00000000] 11: fgload 3 00000000 OK01CA 0 3
+[00000000] 10: text 38
+{textColor 0 2}【Okuhiko】 "You gotta believe. C'mon, I can promise you the biggest catch you'll ever get."
+[00000000] 10: text 39
+{textColor 0 2}【Haruka】 "You promise...?"
+[00000000] 10: text 3a
+{textColor 0 2}Haruka-chan stares directly at me as she mutters.
+[00000000] 10: text 3b
+{textColor 0 2}It's somehow like she's gained a light in her eyes at hearing this.
+[00000000] 10: stopBGM
+[00000000] 10: text 3c
+{textColor 0 2}She holds her stare for a few moments before finally answering.
+[00000000] 11: fgload 1 00000000 HA02CA 2 3
+[00000000] 10: text 3d
+{textColor 0 2}【Haruka】 "Okay... I want to go fishing with you, Okuhiko."
+[00000000] 10: removeAllFG 3
+[00000000] 10: playBGM 17
+[00000000] 10: text 3e
+{textColor 0 2}【Okuhiko】 (YEEEEEEEEEEAAAAAAAAAAAHHH!!!)
+[00000000] 10: text 3f
+{textColor 0 2}On the inside, I'm pumping my fists so hard right now.
+[00000000] 10: text 40
+{textColor 0 2}Finally! Finally has the opportunity presented itself for me to be alone with Haruka-chan!
+[00000000] 10: text 41
+{textColor 0 2}Heh, nothing personal, Ishihara.
+[00000000] 10: text 42
+{textColor 0 2}While I am reluctant in being this underhanded about things, a win is a win regardless of the strategy, hehehe.
+[00000000] 10: stopBGM
+[00000000] 10: text 43
+{textColor 0 2}It's not until moments later that I notice Haruka-chan is gone from in front of my sneering face.
+[00000000] 10: cmd24
+[00000000] 10: fadetoblack
+[00000000] 10: removeBG 0 0 0
+[00000000] 10: fadein
+[00000000] 10: delay 120
+[00000000] 10: fadetoblack
+[00000000] 10: bgload 00000000 BGCAL3 0 1
+[00000000] 10: varop VAR_(28_0a)_a0_fb (14) := (00) 3
+[00000000] 10: varop VAR_(28_0a)_a0_fe (14) := (00) 3
+[00000000] 10: dayIntro 00000000 BGCAL3.cps
+[00000000] 10: moveFG 1 1
+[00000000] 10: fadein
+[00000000] 10: delay 1
+[00000000] 10: delay 140
+[00000000] 10: fadetoblack
+[00000000] 10: removeBG 0 0 0
+[00000000] 10: fadein
+[00000000] 10: bgload 00000000 BG15A 0 1
+[00000000] 10: playBGM 8
+[00000000] 10: playSFX SE080 1
+[00000000] 10: waitForSFX
+[00000000] 10: playSFX SE024 1
+[00000000] 10: text 44
+{textColor 0 2}She and I eventually end up at the embankment.
+[00000000] 10: text 45
+{textColor 0 2}When we left the lodge, I'd gone and rented fishing equipment at the tackle shop downtown. I'd made my way here after that.
+[00000000] 10: text 46
+{textColor 0 2}Rented, not bought, even though I can absolutely afford to buy anything and everything we need. It just so happened that I wasn't able to use my dad's Pisa Gold Card.
+[00000000] 10: text 47
+{textColor 0 2}I mainly shop using cards, so unfortunately for me, it's rare that I have cash on hand.
+[00000000] 10: text 48
+{textColor 0 2}So it was with a heavy heart that I decided to rent everything.
+[00000000] 10: text 49
+{textColor 0 2}The barren countryside not having even the slightest ability to let me use a credit card is what pisses me off the most about places like these.
+[00000000] 10: text 4a
+{textColor 0 2}Whatever, I guess.
+[00000000] 10: text 4b
+{textColor 0 2}Regardless of all that, I need to make the most of my current situation...
+[00000000] 10: text 4c
+{textColor 0 2}I grab the rods, lines, floats, and lure from the bag packed with rental equipment.
+[00000000] 10: text 4d
+{textColor 0 2}I swiftly assemble everything and get ready.
+[00000000] 10: text 4e
+{textColor 0 2}Haruka-chan watches intently as I do all this.
+[00000000] 10: text 4f
+{textColor 0 2}Heh, smooth sailing already.
+[00000000] 10: cmd24
+[00000000] 11: multifgload2 00000000 HA01AA 1 00000000 OK02AA 3
+[00000000] 10: text 50
+{textColor 0 2}【Okuhiko】 "Paying attention? Watch what comes next."
+[00000000] 10: removeAllFG 3
+[00000000] 10: text 51
+{textColor 0 2}I swing my rod and let the lure fly.
+[00000000] 10: cmd24
+[00000000] 10: playSFX SE125 1
+[00000000] 10: text 52
+{textColor 0 2}The float and lure fastened to the line draw an amazing arc before falling to the sea's surface way off in the distance.
+[00000000] 10: text 53
+{textColor 0 2}A handful of minutes pass and the float suddenly sinks.
+[00000000] 10: text 54
+{textColor 0 2}【Okuhiko】 "We got a live one!"
+[00000000] 10: text 55
+{textColor 0 2}I swiftly draw the reel without a second to waste.
+[00000000] 10: text 56
+{textColor 0 2}The line cuts the surface in our direction, soon revealing an immense fish jumping from the sea.
+[00000000] 11: fgload 1 00000000 HA11AA 1 3
+[00000000] 10: text 57
+{textColor 0 2}【Haruka】 "Wow."
+[00000000] 10: text 58
+{textColor 0 2}Haruka-chan naturally lets out an expression of astonishment.
+[00000000] 10: removeFG 0 3
+[00000000] 10: text 59
+{textColor 0 2}Oooh yeah, that's the stuff.
+[00000000] 10: text 5a
+{textColor 0 2}A grin grows across my face as I grab the lure from the fish and shove my catch into the cooler.
+[00000000] 10: stopBGM
+[00000000] 10: text 5b
+{textColor 0 2}...But then:
+[00000000] 11: fgload 1 00000000 HA06AA 1 3
+[00000000] 10: text 5c
+{textColor 0 2}【Haruka】 "What are you doing?"
+[00000000] 10: text 5d
+{textColor 0 2}【Okuhiko】 "Huh?"
+[00000000] 10: text 5e
+{textColor 0 2}Her tone is so unexpectedly harsh that it makes me flinch.
+[00000000] 10: removeFG 0 3
+[00000000] 10: playBGM 2
+[00000000] 10: text 5f
+{textColor 0 2}Shooting a glance at me, she approaches the cooler and takes out my hard-earned catch, placing it back into the sea.
+[00000000] 10: cmd24
+[00000000] 10: playSFX SE125 1
+[00000000] 10: text 60
+{textColor 0 2}I can only look on in shock for a moment, though I do end up regaining control of the situation.
+[00000000] 11: fgload 1 00000000 OK02AA 0 3
+[00000000] 10: text 61
+{textColor 0 2}【Okuhiko】 "Right, right. Catch and release, yeah? That's my Haruka-chan, the kindest woman who ever lived."
+[00000000] 11: fgload 3 00000000 HA01AA 2 3
+[00000000] 10: text 62
+{textColor 0 2}【Haruka】 "I'm kind?"
+[00000000] 10: text 63
+{textColor 0 2}【Okuhiko】 "You know it. Setting free that poor fish we just caught."
+[00000000] 11: fgload 3 00000000 HA12AA 2 3
+[00000000] 10: text 64
+{textColor 0 2}【Haruka】 "I don't understand... because I have no heart."
+[00000000] 10: text 65
+{textColor 0 2}Haruka-chan shifts her gaze to the sea before us.
+[00000000] 10: text 66
+{textColor 0 2}I can't read her expression in the slightest.
+[00000000] 10: removeAllFG 3
+[00000000] 10: text 67
+{textColor 0 2}'Because I have no heart.'
+[00000000] 10: text 68
+{textColor 0 2}I've heard her say that phrase before.
+[00000000] 10: text 69
+{textColor 0 2}Just yesterday and the day before that, she entirely avoided my advances. But the few words she spoke were almost always that same phrase.
+[00000000] 10: text 6a
+{textColor 0 2}What does she even mean by that?
+[00000000] 10: text 6b
+{textColor 0 2}Sure, you could easily posit that Haruka-chan doesn't quite experience emotional highs and lows like the rest of us.
+[00000000] 10: text 6c
+{textColor 0 2}But to say she doesn't have a heart...
+[00000000] 11: fgload 1 00000000 HA12AB 1 3
+[00000000] 10: text 6d
+{textColor 0 2}I fix my eyes on her as she continues staring at the sea.
+[00000000] 10: text 6e
+{textColor 0 2}Why is she the way that she is?
+[00000000] 10: text 6f
+{textColor 0 2}I'm entirely dedicated to never giving up on Haruka-chan, even with that blunt attitude of hers.
+[00000000] 10: text 70
+{textColor 0 2}Conversely, my thirst for winning her over is stronger than ever before.
+[00000000] 10: text 71
+{textColor 0 2}I've been with so many girls that I've lost count. But this? I've never experienced this in my life.
+[00000000] 10: text 72
+{textColor 0 2}I want to know so much more about her.
+[00000000] 10: text 73
+{textColor 0 2}And I want her to know so much more about me.
+[00000000] 10: text 74
+{textColor 0 2}Those are the deepest desires of the bottom of my heart.
+[00000000] 10: text 75
+{textColor 0 2}Haruka-chan, just who on earth are you...?
+[00000000] 10: text 76
+{textColor 0 2}In my mind's eye, I picture myself asking her this.
+[00000000] 10: text 77
+{textColor 0 2}Not that I expect a reply from doing that.
+[00000000] 10: cmd24
+[00000000] 10: fadetoblack
+[00000000] 10: stopBGM
+[00000000] 10: delay 120
+[00000000] 10: bgload 00000000 BG00E 0 1
+[00000000] 11: multifgload2 00000000 HA01AAD 1 00000000 OK01AAD 3
+[00000000] 10: fadein
+[00000000] 10: playBGM 16
+[00000000] 10: text 78
+{textColor 0 2}【Haruka】 "...That is a lot of fish you have caught, Okuhiko."
+[00000000] 10: text 79
+{textColor 0 2}She speaks as the setting sun dyes her face orange.
+[00000000] 10: removeAllFG 3
+[00000000] 10: text 7a
+{textColor 0 2}It's already evening by now.
+[00000000] 10: text 7b
+{textColor 0 2}The scenery all around us has already been completely enveloped by the sunset's glow.
+[00000000] 10: text 7c
+{textColor 0 2}We spent hours just lost in our own little world as we continued fishing together.
+[00000000] 10: text 7d
+{textColor 0 2}Fish would come no sooner than I threw my rod.
+[00000000] 10: text 7e
+{textColor 0 2}Haruka was so lost in it that she would cast her line over and over and over.
+[00000000] 10: text 7f
+{textColor 0 2}Maybe it's because of Haruka-chan that I found myself so enthralled by fishing.
+[00000000] 10: text 80
+{textColor 0 2}Those hours had felt as mere moments.
+[00000000] 10: text 81
+{textColor 0 2}By now, we've made it the entrance of the lodge.
+[00000000] 10: text 82
+{textColor 0 2}Haruka-chan is on her way inside when I quickly try and stop her.
+[00000000] 10: text 83
+{textColor 0 2}【Okuhiko】 "Haruka-chan!"
+[00000000] 11: fgload 1 00000000 HA01AAD 1 3
+[00000000] 10: text 84
+{textColor 0 2}【Haruka】 "Yes?"
+[00000000] 10: text 85
+{textColor 0 2}【Okuhiko】 "You had a whale of a time today, yeah?"
+[00000000] 10: text 86
+{textColor 0 2}She seems to hesitate at my question momentarily before instantly giving her answer.
+[00000000] 10: stopBGM
+[00000000] 11: fgload 1 00000000 HA03AAD 1 3
+[00000000] 10: text 87
+{textColor 0 2}【Haruka】 "Yes, I had a fun time. More than ever before."
+[00000000] 10: removeFG 0 3
+[00000000] 10: playSFX SE011 1
+[00000000] 10: text 88
+{textColor 0 2}With that, she nimbly opens the door and goes inside.
+[00000000] 10: text 89
+{textColor 0 2}She does this while slightly blushing.
+[00000000] 10: text 8a
+{textColor 0 2}...WHILE BLUSHING?!
+[00000000] 11: fgload 1 00000000 OK09AAD 1 3
+[00000000] 10: playBGM 17
+[00000000] 10: text 8b
+{textColor 0 2}【Okuhiko】 "Ooooooohhiiiiee!"
+[00000000] 10: text 8c
+{textColor 0 2}I instinctively let out a very unusual noise.
+[00000000] 10: text 8d
+{textColor 0 2}Oh, my Haruka-chan! My Haruka-chan, so blunt in response to anything I might say! And yet you blush?!
+[00000000] 10: removeFG 0 3
+[00000000] 10: text 8e
+{textColor 0 2}【Okuhiko】 "I am so in! I've got this in the bag!"
+[00000000] 10: text 8f
+{textColor 0 2}That stubborn door of Haruka-chan's has finally been opened! If only just a little!
+[00000000] 10: text 90
+{textColor 0 2}Mwahahaha! In your face, Ishihara! I am he who is one step ahead!
+[00000000] 10: text 91
+{textColor 0 2}Let's do this! I'll show you that Haruka-chan's heart belongs to ME! HAHAHA!
+[00000000] 10: stopBGM
+[00000000] 11: fgload 1 00000000 YU02AAAD 1 3
+[00000000] 10: text 92
+{textColor 0 2}【Yuka】 "Oooh? Yer sure havin' fuuun, huh, Okuhiko-taaan?"
+[00000000] 10: moveFG 1 2
+[00000000] 11: fgload 3 00000000 OK07AAD 0 3
+[00000000] 10: text 93
+{textColor 0 2}【Okuhiko】 "Oh, it's nothing, really. You see, actually, Haruka-chan was just..."
+[00000000] 11: fgload 3 00000000 OK11AAD 0 3
+[00000000] 10: playSFX SE120 1
+[00000000] 10: text 94
+{textColor 0 2}【Okuhiko】 "Wha—hey?!"
+[00000000] 10: text 95
+{textColor 0 2}I spontaneously fall backwards at Yuka-chan's face suddenly appearing in front of my own.
+[00000000] 11: fgload 1 00000000 YU06AAAD 2 3
+[00000000] 10: playBGM 19
+[00000000] 10: text 96
+{textColor 0 2}【Yuka】 "Mm? Whas'a matter? You sheem shocked... at my faysh. Ish rude to shtare."
+[00000000] 10: text 97
+{textColor 0 2}She glares at me with contempt as she slowly closes the distance between the two of us.
+[00000000] 10: text 98
+{textColor 0 2}I can smell the alcohol on her, it's obvious from her breath... or rather, her whole body.
+[00000000] 10: text 99
+{textColor 0 2}Taking a closer look, I can see a whole 1.8 liter bottle of sake in her right hand.
+[00000000] 10: text 9a
+{textColor 0 2}It's labeled "Local Sake Yashazaru" on the side.
+[00000000] 11: fgload 3 00000000 OK10AAD 0 3
+[00000000] 10: text 9b
+{textColor 0 2}【Okuhiko】 "Y-Yuka-chan, you seem *really* drunk right now."
+[00000000] 11: fgload 1 00000000 YU04AAAD 2 3
+[00000000] 10: text 9c
+{textColor 0 2}【Yuka】 "Wham'd you jus' shay?"
+[00000000] 10: text 9d
+{textColor 0 2}【Okuhiko】 "I just mean, you've had too much to drink..."
+[00000000] 11: fgload 1 00000000 YU02AAAD 2 3
+[00000000] 10: text 9e
+{textColor 0 2}【Yuka】 "Aaah! Riiigh', riiigh'o. O-Okuhiko-tan wan get a little drinky too! 'Kaaay, drin' up!"
+[00000000] 11: fgload 3 00000000 OK02AAD 0 3
+[00000000] 10: text 9f
+{textColor 0 2}【Okuhiko】 "Wow, thanks."
+[00000000] 11: fgload 3 00000000 OK10AAD 0 3
+[00000000] 10: text a0
+{textColor 0 2}【Okuhiko】 "...NOT! *Sigh*... I've had enough. Just drink your own share for all I care."
+[00000000] 10: removeAllFG 3
+[00000000] 10: text a1
+{textColor 0 2}I turn around and leave Yuka with those words.
+[00000000] 10: text a2
+{textColor 0 2}But then!
+[00000000] 10: text a3
+{textColor 0 2}【Yuka】 "'Ow could you, O-Okuhikooo! Who'd you think y'are, turning down a drink some'n just offered you! I shay... off with yer head!"
+[00000000] 10: text a4
+{textColor 0 2}【Okuhiko】 "Huh?"
+[00000000] 10: text a5
+{textColor 0 2}Upon hearing something in her hands, I try to turn back around, but...
+[00000000] 10: cmd24
+[00000000] 10: fadetowhite
+[00000000] 10: removeBG 1 0 0
+[00000000] 10: fadein
+[00000000] 10: playSFX SE075 1
+[00000000] 10: text a6
+{textColor 0 2}*THUMP*
+[00000000] 10: text a7
+{textColor 0 2}【Okuhiko】 "Aaaaiiiieeee!"
+[00000000] 10: bgload 00000000 BG00E 0 1
+[00000000] 10: playSFX SE061 1
+[00000000] 10: text a8
+{textColor 0 2}An enormous impact reaches the back of my head before I simply fall to the floor.
+[00000000] 10: text a9
+{textColor 0 2}As my consciousness leaves me, I'm met with one final sight: Yuka standing before me, clutching one very bloodstained bottle...
+[00000000] 10: cmd24
+[00000000] 10: removeBG 0 1 1
+[00000000] 10: removeBG 0 0 0
+[00000000] 10: fadein
+[00000000] 10: stopBGM
+[00000000] 10: delay 180
+[00000000] 10: text aa
+{textColor 0 2}???: "...-kun."
+[00000000] 10: text ab
+{textColor 0 2}???: "...hiko-kun."
+[00000000] 10: text ac
+{textColor 0 2}???: "...Okuhiko-kun!"
+[00000000] 10: text ad
+{textColor 0 2}I can hear someone calling me.
+[00000000] 10: text ae
+{textColor 0 2}【Okuhiko】 "Y-Yeah?"
+[00000000] 10: text af
+{textColor 0 2}Despite the throbbing pain in my head, I manage to get up.
+[00000000] 10: cmd24
+[00000000] 10: fadetowhite
+[00000000] 10: bgload 00000000 BG18A 0 1
+[00000000] 11: fgload 1 00000000 YU08CB 1 3
+[00000000] 10: fadein
+[00000000] 10: playBGM 9
+[00000000] 10: text b0
+{textColor 0 2}【Yuka】 "Are you all right, Okuhiko-kun?"
+[00000000] 10: text b1
+{textColor 0 2}Yuka-chan is standing in front of me in tennis attire, wearing an apparently concerned expression.
+[00000000] 10: text b2
+{textColor 0 2}...Wait, tennis attire?
+[00000000] 11: fgload 1 00000000 YU02CB 1 3
+[00000000] 10: text b3
+{textColor 0 2}【Yuka】 "I was so, so worried! I guess I put a bit too much strength into my racket, I'm sorry about that."
+[00000000] 10: removeFG 0 3
+[00000000] 10: text b4
+{textColor 0 2}Her words cause me to examine my surroundings in a panic. We're completely encircled by tennis courts.
+[00000000] 10: stopBGM
+[00000000] 10: text b5
+{textColor 0 2}D-Don't tell me...
+[00000000] 10: text b6
+{textColor 0 2}I look down on my watch and look at the date.
+[00000000] 10: playSFX SE120 1
+[00000000] 10: text b7
+{textColor 0 2}A-April 1st?!
+[00000000] 11: fgload 1 00000000 YU05CB 1 3
+[00000000] 10: text b8
+{textColor 0 2}【Yuka】 "You know, you were out for a while. I think you said something about... fishing? And Haruka-chan?"
+[00000000] 10: removeFG 0 3
+[00000000] 11: fgload 1 00000000 OK09AB 1 3
+[00000000] 10: playBGM 19
+[00000000] 10: text b9
+{textColor 0 2}【Okuhiko】 "NOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"
+[00000000] 10: text ba
+{textColor 0 2}A scream leaves my body before I even realize it.
+[00000000] 10: text bb
+{textColor 0 2}【Okuhiko】 "Was all of it just a dream? Had it really just been because Yuka had smacked me with a racket on April 1st?"
+[00000000] 10: text bc
+{textColor 0 2}【Okuhiko】 "I-I thought I got to know Haruka-chan, even just a little!"
+[00000000] 10: removeFG 0 3
+[00000000] 11: fgload 1 00000000 YU11CB 1 3
+[00000000] 10: text bd
+{textColor 0 2}【Yuka】 "Um... O-Okuhiko-kun, what are you talking about?"
+[00000000] 10: removeAllFG 3
+[00000000] 10: text be
+{textColor 0 2}Yuka-chan is clearly worried about me, but the most I can do is flash a weak smile in response.
+[00000000] 11: fgload 3 00000000 YU08CB 1 3
+[00000000] 10: text bf
+{textColor 0 2}【Yuka】 "Hmm... Maybe I hit a really critical spot. Should we take you to the hospital?"
+[00000000] 10: text c0
+{textColor 0 2}【Okuhiko】 "...No, I'm fine. Let's just... play tennis, okay? Ishihara and the girls are already over near the sea, aren't they?"
+[00000000] 11: fgload 3 00000000 YU05CB 1 3
+[00000000] 10: text c1
+{textColor 0 2}【Yuka】 "Y-Yeah. They are, but even... are you *sure* you're all right, Okuhiko-kun?"
+[00000000] 10: text c2
+{textColor 0 2}【Okuhiko】 "Yeah, better than ever! Let's get this show on the road."
+[00000000] 10: text c3
+{textColor 0 2}Half of me screams this out of sheer desperation.
+[00000000] 10: text c4
+{textColor 0 2}Being stuck on some irritatingly sexless feeling compels me to get my body moving already before I lose my mind thinking about it.
+[00000000] 11: fgload 3 00000000 YU02CB 1 3
+[00000000] 10: text c5
+{textColor 0 2}【Yuka】 "Sure thing, then. Let's get started!"
+[00000000] 10: removeAllFG 3
+[00000000] 10: stopBGM
+[00000000] 10: text c6
+{textColor 0 2}Yuka-chan gets herself set facing me as she says this, then brandishing her racket and the ball.
+[00000000] 10: bgload 00000000 EV_YU16B 0 1
+[00000000] 10: playBGM 1
+[00000000] 10: text c7
+{textColor 0 2}【Yuka】 "I have been developing this serve for this day! Take THIS!"
+[00000000] 10: text c8
+{textColor 0 2}【Okuhiko】 "Huh? A serve you developed?"
+[00000000] 10: text c9
+{textColor 0 2}【Yuka】 "Go forth! Deep Armageddon Meteor Impact Serve!"
+[00000000] 10: text ca
+{textColor 0 2}Yuka-chan shouts with all her heart as she launches the ball into high orbit.
+[00000000] 10: text cb
+{textColor 0 2}And then, as the ball drops...!
+[00000000] 10: text cc
+{textColor 0 2}【Yuka】 "Meteorite, oh meteorite! So long as I live, stay far above this earth!"
+[00000000] 10: bgload 00000000 EV_YU16A 0 1
+[00000000] 10: text cd
+{textColor 0 2}【Yuka】 "Bam! Thud! Crash! BOOM!"
+[00000000] 10: cmd24
+[00000000] 10: fadetoblack
+[00000000] 10: removeBG 0 0 0
+[00000000] 10: fadein
+[00000000] 10: playSFX SE145 1
+[00000000] 10: text ce
+{textColor 0 2}She delivers her serve with the speed and power of an actual meteorite.
+[00000000] 10: text cf
+{textColor 0 2}The ball perfectly aims for... Okuhiko's face! ...Wait, what?
+[00000000] 10: stopBGM
+[00000000] 10: playSFX SE071 1
+[00000000] 10: text d0
+{textColor 0 2}【Okuhiko】 "BAGHWAH!"
+[00000000] 10: text d1
+{textColor 0 2}The ball slams against my face and I fall to the ground instantly.
+[00000000] 10: playSFX SE061 1
+[00000000] 10: bgload 00000000 BG18A 0 1
+[00000000] 11: fgload 1 00000000 YU11CB 1 3
+[00000000] 10: text d2
+{textColor 0 2}【Yuka】 "Eek! O-Okuhiko-kun, are you all right?"
+[00000000] 10: removeFG 0 3
+[00000000] 10: playBGM 21
+[00000000] 10: text d3
+{textColor 0 2}I can feel Yuka-chan running up to me and shaking me as hard as possible as my consciousness starts to fade.
+[00000000] 10: text d4
+{textColor 0 2}(Th-This is fine, Yuka-chan. Really. Things are fine as they are)
+[00000000] 10: text d5
+{textColor 0 2}I can only groan within my own mind.
+[00000000] 10: text d6
+{textColor 0 2}(Let me lie here for the time being, please... I'm so worn out)
+[00000000] 10: cmd24
+[00000000] 10: removeBG 0 1 1
+[00000000] 10: removeBG 0 0 0
+[00000000] 10: fadein
+[00000000] 10: text d7
+{textColor 0 2}Those are my final thoughts as my consciousness slowly dims.
+[00000000] 10: text d8
+{textColor 0 2}(For the time being... if only for a minute...)
+[00000000] 10: cmd24
+[00000000] 10: delay 120
+[00000000] 10: stopBGM
+[00000000] 10: text d9
+{textColor 0 2}(Because a rest... would be the cure)
+[00000000] 10: cmd24
+[00000000] 10: fadetoblack
+[00000000] 10: stopBGM
+[00000000] 10: delay 120
+[00000000] 10: removeBG 0 0 0
+[00000000] 10: fadein
+[00000000] 10: returnTitle

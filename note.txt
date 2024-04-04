@@ -1,0 +1,18 @@
+graph_disp.8 01-00-00-G @00-00-FF-00-00-10-1E-00-00-00-00-00 - bg to black
+fade_start.8 7F-01-00-00-F0-00-00
+fade_wait.4 00-00-00
+graph_disp.8 01-00-00-G @00-01-FF-00-00-20-1E-00-00-00-00-00 - bg ev_al01
+graph_disp.8 01-00-00-G @00-01-FF-00-01-20-1E-00-00-00-00-00 - bg ev_al01b
+graph_disp.8 01-00-00-G @00-00-FF-00-01-10-1E-00-00-00-00-00 - bg to white (after teeth effect)
+graph_disp.8 01-00-00-G @00-01-FF-00-0F-10-1E-00-00-00-00-00 - bg to bg01a
+graph_disp_ex.8 01-00-00-G @00-00-FF-00-60-20-1E-00-00-00-00-00 - bg to ev_yu01
+graph_disp.8 01-00-00-G @00-00-FF-00-0F-10-1E-00-00-00-00-00 - bg to bg01a
+graph_disp.8 01-00-00-G @01-FF-FF-00-2E-34-01-00-F0-00-00-00 - sprite YU03CA lone center
+
+graph data: 12 bytes
+00: bool - 0 if bg, 1 if sprite
+01: u8 - unknown
+02: u16 - always FF-00
+03:
+04..05&0F: u12 - id of image in archive, in listed order (afs files are order-sensitive) (.T2P/.BIP pairs only count once) (the @05 part is MSB)
+05&F0: u4 - id of archive, 0x34 is chr.afs, 0x10 is bg.afs, 0x20 is ev.afs

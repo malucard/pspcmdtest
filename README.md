@@ -1,0 +1,1 @@
+This repository contains code that can mostly convert one script file from Never7 PSP (USER08, that is, Okuhiko Cure) into the format expected by Eternal Edition, and also apply the translation (by rigs) to it. It could be expanded to support the rest of the scripts, but at this point it doesn't quite.
