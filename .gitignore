@@ -4,3 +4,4 @@ decomp/*.afs
 decomp/bg/
 decomp/Allegrex
 decomp/*.BIN
+/out*/
